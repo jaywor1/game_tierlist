@@ -13,6 +13,7 @@
 |<img src="https://upload.wikimedia.org/wikipedia/en/9/9f/Cyberpunk_2077_box_art.jpg" width="96px">|Cyberpunk 2077|RPG|CD Projekt Red|CD Projekt|2020|
 |<img src="https://upload.wikimedia.org/wikipedia/en/6/63/Far_Cry_4_box_art.jpg" width="96px">|Far Cry 4|FPS|Ubisoft Montreal|Ubisoft|2014|
 |<img src="https://upload.wikimedia.org/wikipedia/en/c/c6/Far_Cry_3_PAL_box_art.jpg" width="96px">|Far Cry 3|FPS|Ubisoft Montreal|Ubisoft|2012|
+|<img src="https://upload.wikimedia.org/wikipedia/en/2/28/Assassin%27s_Creed_IV_-_Black_Flag_cover.jpg" width="96px">|Assasin's Creed IV: Black Flag|Action-adventure|Ubisoft Montreal|Ubisoft|2013|
 |<img src="https://upload.wikimedia.org/wikipedia/en/1/1f/Empire_Earth.jpg" width="96px">|Empire Earth|Real-time strategy|Stainless Steel Studios|Sierra On-Line|2001|
 |<img src="https://upload.wikimedia.org/wikipedia/en/4/41/Assassin%27s_Creed_Unity_cover.jpg" width="96px">|Assasin's Creed Unity|Action-adventure|Ubisoft Montreal|Ubisoft|2014|
 
