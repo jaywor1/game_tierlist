@@ -15,5 +15,11 @@
 |<img src="https://upload.wikimedia.org/wikipedia/en/c/c6/Far_Cry_3_PAL_box_art.jpg" height="128px">|Far Cry 3|FPS|Ubisoft Montreal|Ubisoft|2012|
 
 ## B
+|Cover|Game|Genre|Developer|Publisher|Year|
+|:---:|:--:|:---:|:-------:|:-------:|:--:|
+<!--|<img src="" height="128px">|||||| --!>
+|<img src="https://upload.wikimedia.org/wikipedia/en/thumb/0/03/Far_Cry_5_boxshot.jpg/220px-Far_Cry_5_boxshot.jpg" height="128px">|Far Cry 5|FPS|Ubisoft Montreal and Ubisoft Toronto|Ubisoft|2018|
+
+
 
 ## C
