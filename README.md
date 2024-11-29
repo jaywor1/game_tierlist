@@ -21,6 +21,7 @@
 |Cover|Game|Genre|Developer|Publisher|Year|
 |:---:|:--:|:---:|:-------:|:-------:|:--:|
 |<img src="https://upload.wikimedia.org/wikipedia/en/thumb/0/03/Far_Cry_5_boxshot.jpg/220px-Far_Cry_5_boxshot.jpg" width="96px">|Far Cry 5|FPS|Ubisoft Montreal and Ubisoft Toronto|Ubisoft|2018|
+|<img src="https://upload.wikimedia.org/wikipedia/en/f/f2/Assassin%27s_Creed_Syndicate_cover.jpg" width="96px">|Assasin's Creed Syndicate|Action-adventure|Ubisoft Quebec|Ubisoft|2015|
 
 
 
