@@ -3,6 +3,7 @@
 ## S
 |Cover|Game|Genre|Developer|Publisher|Year|
 |:---:|:--:|:---:|:-------:|:-------:|:--:|
+|<img src="https://upload.wikimedia.org/wikipedia/en/thumb/2/25/Half-Life_2_cover.jpg/220px-Half-Life_2_cover.jpg" height="128px">|Half-Life 2|FPS|Valve|Valve|2004|
 |<img src="https://upload.wikimedia.org/wikipedia/en/f/fa/Half-Life_Cover_Art.jpg" height="128px">|Half-Life|FPS|Valve|Sierra Studios|1998|
 |<img src="https://upload.wikimedia.org/wikipedia/en/f/fd/Kingdom_Come_Deliverance.jpg" height="128px">|Kingdom Come: Deliverance|RPG|Warhorse Studios|Deep Silver and Warhorse Studios|2018|
 
